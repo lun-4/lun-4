@@ -1,16 +1,31 @@
-### Hi there 👋
+**The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
+NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and
+"OPTIONAL" in this document are to be interpreted as described in
+RFC 2119.**
 
-<!--
-**lun-4/lun-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**You know I MUST do it to them.**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CHECK OUT THIS GUY HE'S IN THE GIST
+```
+    ⣠⣦⣤⣀
+⠀⠀⠀⠀⢡⣤⣿⣿
+⠀⠀⠀⠀⠠⠜⢾⡟
+⠀⠀⠀⠀⠀⠹⠿⠃⠄
+⠀⠀⠈⠀⠉⠉⠑⠀⠀⠠⢈⣆
+⠀⠀⣄⠀⠀⠀⠀⠀⢶⣷⠃⢵
+⠐⠰⣷⠀⠀⠀⠀⢀⢟⣽⣆⠀⢃
+⠰⣾⣶⣤⡼⢳⣦⣤⣴⣾⣿⣿⠞
+⠀⠈⠉⠉⠛⠛⠉⠉⠉⠙⠁
+⠀⠀⡐⠘⣿⣿⣯⠿⠛⣿⡄
+⠀⠀⠁⢀⣄⣄⣠⡥⠔⣻⡇
+⠀⠀⠀⠘⣛⣿⣟⣖⢭⣿⡇
+⠀⠀⢀⣿⣿⣿⣿⣷⣿⣽⡇
+⠀⠀⢸⣿⣿⣿⡇⣿⣿⣿⣇
+⠀⠀⠀⢹⣿⣿⡀⠸⣿⣿⡏
+⠀⠀⠀⢸⣿⣿⠇⠀⣿⣿⣿
+⠀⠀⠀⠈⣿⣿⠀⠀⢸⣿⡿
+⠀⠀⠀⠀⣿⣿⠀⠀⢀⣿⡇
+⠀⣠⣴⣿⡿⠟⠀⠀⢸⣿⣷
+⠀⠉⠉⠁⠀⠀⠀⠀⢸⣿⣿⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈
+```
