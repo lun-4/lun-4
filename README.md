@@ -1,25 +1,17 @@
-![inline image test](https://lasagna.cat/i/12laf8u3.png)
+WELCOME TO
 
-**The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
-NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and
-"OPTIONAL" in this document are to be interpreted as described in
-RFC 2119.**
+![](https://gifcities.org/assets/loading1.gif)
 
-**You know I MUST do it to them.**
+TO MY FORUM
 
-|   test | table   |
-| -----: | :------ |
-|  anime | girls   |
-|   awoo | awoo    |
-| mother | fuckers |
+![](https://web.archive.org/web/20091027040844/http://es.geocities.com/vimasoft/images/cell13.gif)
 
-<h4 style="color: red;">test</h4>
+i use the
+![](http://kakoune.org/img/kakoune_logo_32.png) [kakoune](http://kakoune.org/) ![](http://kakoune.org/img/kakoune_logo_32.png)
+editor but
+![vim](https://web.archive.org/web/20090820072627/http://geocities.com/khunphangame/img/vim_on_fire.gif) will always be in my heart
 
-![](https://c7.pm/img/msie3.gif)
-![](https://c7.pm/img/netscape.gif)
-![](https://c7.pm/img/netscape_cube.gif)
-![](https://notnite.com/assets/images/buttons/windowsmedia7.gif)
-![](https://notnite.com/assets/images/buttons/vim.gif)
+moeny: ![](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
 
 CHECK OUT THIS GUY HE'S IN THE GIST
 
