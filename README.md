@@ -7,7 +7,11 @@ RFC 2119.**
 
 **You know I MUST do it to them.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oBa4UIi-X80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+|   test | table   |
+| -----: | :------ |
+|  anime | girls   |
+|   awoo | awoo    |
+| mother | fuckers |
 
 CHECK OUT THIS GUY HE'S IN THE GIST
 
@@ -34,79 +38,3 @@ CHECK OUT THIS GUY HE'S IN THE GIST
 ⠀⠉⠉⠁⠀⠀⠀⠀⢸⣿⣿⠁
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈
 ```
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-
-.
-.
-.
-.
-
-.
-.
-
-.
-
-.
-
-.
-
-.
-;
-.
-.
-
-.
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-.
-.
-
-.
-
-testing out max heights
