@@ -13,6 +13,12 @@ RFC 2119.**
 |   awoo | awoo    |
 | mother | fuckers |
 
+![](https://c7.pm/img/msie3.gif)
+![](https://c7.pm/img/netscape.gif)
+![](https://c7.pm/img/netscape_cube.gif)
+![](https://notnite.com/assets/images/buttons/windowsmedia7.gif)
+![](https://notnite.com/assets/images/buttons/vim.gif)
+
 CHECK OUT THIS GUY HE'S IN THE GIST
 
 ```
