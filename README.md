@@ -7,9 +7,6 @@ WELCOME TO
 
 TO MY FORUM
 
-![a weird cellphone ad](https://web.archive.org/web/20091027040844/http://es.geocities.com/vimasoft/images/cell13.gif)
-
 i use the
 ![kakoune logo](http://kakoune.org/img/kakoune_logo_32.png) [kakoune](http://kakoune.org/) ![](http://kakoune.org/img/kakoune_logo_32.png)
-editor but
-![vim logo](https://web.archive.org/web/20090820072627/http://geocities.com/khunphangame/img/vim_on_fire.gif) will always be in my heart
+editor but vim will always be in my heart
