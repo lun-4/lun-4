@@ -1,7 +1,7 @@
 [![it/its pronouns](https://img.shields.io/badge/pronouns-it%2Fits-b056f5)](https://pronoun.is/it)
 [![she/her pronouns](https://img.shields.io/badge/pronouns-she%2Fher-dabdab)](https://pronoun.is/she/her)
 
-weird code creature, enemy-shaped.
+enemy-shaped code creature.
 
 editor: [helix](https://helix-editor.com/), it's pretty cool
 
